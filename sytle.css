@@ -1,0 +1,208 @@
+.navigation{
+    text-decoration:none ;
+}
+.about{
+    display: flex;
+}
+.order{
+    border-radius: 7px;
+    padding: 10px;
+     background-color: orange;
+     color: white;
+     font-size: 10px;
+}
+.landpage{
+    background-color:white;
+    border-radius: 10px;
+}
+.helthy{
+    color: orange;
+}
+.foodhouse{
+    color: orange;
+    font-style: italic;
+}
+.home{
+    color: orange;
+}
+.saladimg{
+    width: 60%;
+    height: 60%;
+    border-radius: 100%;
+}
+.oysterimg{
+    width: 60%;
+    height: 60%;
+    border-radius: 100%;
+}
+.fooditems{
+    display: flex;
+}
+.pizzaimg{
+    width: 60%;
+    height: 60%;
+    border-radius: 100%;
+}
+.fishimg{
+    width: 60%;
+    height: 60%;
+    border-radius: 100%;
+}
+.offers{
+    display: flex;
+}
+.tunaimg{
+    width: 70%;
+    height: 80%;
+    
+}
+.headingonline{
+    font-size: large;
+}
+
+.heading{
+    text-align: center;
+}
+button{
+    border-radius: 20px;
+    color: white;
+    background-color:orange;
+    padding: 6px;
+    border: none;
+}
+.burgerimg{
+    width: 10%;
+    height: 10%;
+   
+}
+.description{
+    text-align: center;
+}
+.dailyoffer{
+display: flex;
+}
+.salads{
+    width: 60%;
+    height: 60%;
+}
+.offerflavour{
+    display: flex;
+}
+.flavours{
+    display: flex;
+    margin-left: 40%;
+    margin-bottom: 200px;
+}
+.services{
+    display: flex;
+}
+.waiter{
+    width: 40%;
+    height: 40%;
+}
+.services{
+    width: -20%;
+    height: -20%;
+}
+.table{
+    color: white;
+    background-color: black;
+    width: 90px;
+    width: 1200px;
+    display: flex;
+    gap: 20px;
+
+}
+.footer{
+    background-color: orange;
+    text-align: center;
+}
+.app{
+    display: flex;
+    gap: -50%;
+    
+}
+.sub{
+    display: flex;
+}
+.entry{
+    margin-left: 70px;
+}
+.icon{
+    display: flex;
+    gap: 160px;
+    color: orange;
+    font-size: xx-large;
+}
+.head{
+    text-align: center;
+    font-size: xx-large;
+    gap: 40px;
+}
+.line1{
+    font-size: 40px;
+}
+.heading6{
+    font-size: 10px;
+}
+.gabiimg{
+    width: 100px;
+    height: 200px;
+    border-radius: 50%;
+}
+.benimg{
+    width: 100px;
+    height: 200px; 
+    border-radius: 50%;
+}
+.chrisimg{
+    width: 100px;
+    height: 200px;
+    border-radius: 50%;
+}
+.michimg{
+    width: 100px;
+    height: 200px;
+    border-radius: 50%;
+}
+.Testimonials{
+    text-align: center;
+}
+.buttonoffer{
+    border-radius: 5px;
+}
+.buttonenhancement{
+    padding: 10px;
+    border-radius: 5px;
+}
+.downloadicons{
+    gap: 5px;
+}
+.qoutes{
+    font-size: xx-large;
+    color: orange;
+    font-weight: 600px;
+}
+.phone{
+    width: 50%;
+    margin-bottom: 100px;
+}
+.heading5{
+    font-size: xx-large;
+}
+.greensalad{
+    margin-left: 300px;
+}
+.location{
+    margin-left: 100%;
+    width: 20%;
+}
+.end{
+    display: flex;
+}
+
+
+
+    
+
+
